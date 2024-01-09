@@ -1,3 +1,7 @@
+*Completed 14/14 puzzles. Amazing resource, huge thanks to Sasha Rush for making this available for free!*
+
+---
+
 # GPU Puzzles
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
